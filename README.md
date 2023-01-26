@@ -1,19 +1,24 @@
-# module 9 - working with APIs / Color Scheme Generator (SOLO PROJECT)
+![Color Scheme Generator Demo Gif](https://raw.githubusercontent.com/pedromorelli96/Color-scheme-generator/main/ColorSchemeGenDemo.gif)
 
-### Check it out here (deployed on netlify): https://sunny-bavarois-ce301d.netlify.app/
+# Color Scheme Generator
 
-<br />
+The Color Scheme Generator is a web-based app that allows users to pick a color and specific color scheme mode and generate a palette of colors with source data coming from [The Color API](https://www.thecolorapi.com/). The users can then view the color and their respective hex code and copy the value to the clipboard with a single click.
 
-# co73343ea8c93c5d396d7ac67
+## 📁 Access the project
 
-## About Scrimba
+### Check it out here: [Click this link to see the project in action](https://sunny-bavarois-ce301d.netlify.app/)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## ✔️ Key learnings
 
--   [Our courses](https://scrimba.com/allcourses)
--   [The Frontend Career Path](https://scrimba.com/learn/frontend)
--   [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+-   `HTML`
+    -   `input types`
+    -   `forms`
+-   `CSS`
+    -   `responsive design`
+-   `Javascript`
+    -   `HTTP requests`
+    -   `REST APIs queries`
+    -   `data fetching`
+    -   `promise handling`
+    -   `DOM manipulation`
+    -   `event listeners`
